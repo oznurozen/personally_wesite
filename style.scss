@@ -1,0 +1,23 @@
+.collapse{
+    .active{
+        color: red !important;
+
+    }
+}
+
+#home{
+ background: {
+    image: url("img/oznurozen.png");
+    size: contain; 
+    repeat: no-repeat;
+    position:center;
+
+ } 
+
+}
+.kurs, .card{
+    img{
+        width: 60%;
+    }
+}
+    
